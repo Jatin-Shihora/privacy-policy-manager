@@ -1,0 +1,15 @@
+title: Privacy Policies
+description: Privacy policies for our mobile applications
+theme: minima
+baseurl: ""
+url: ""
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Exclude from processing
+exclude:
+  - README.md
+  - .gitignore
