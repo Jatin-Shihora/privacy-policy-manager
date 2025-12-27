@@ -3,8 +3,6 @@ layout: home
 title: Privacy Policies
 ---
 
-# Privacy Policies
-
 Welcome to our privacy policy hub. Select an app below to view its privacy policy.
 
 ## Our Apps

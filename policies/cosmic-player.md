@@ -1,10 +1,9 @@
 ---
 layout: page
-title: "Privacy Policy - Cosmic: Music Player"
+title: "Cosmic: Music Player - Privacy Policy"
 permalink: /policies/cosmic-player/
 ---
 
-# Privacy Policy for Cosmic: Music Player
 
 **Last Updated:** December 27, 2024
 
