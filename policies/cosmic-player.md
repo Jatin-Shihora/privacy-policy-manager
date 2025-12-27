@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Cosmic: Music Player - Privacy Policy"
 permalink: /policies/cosmic-player/
 ---

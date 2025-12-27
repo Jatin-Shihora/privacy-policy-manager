@@ -1,6 +1,5 @@
 title: Privacy Policies
 description: Privacy policies for our mobile applications
-theme: minima
 baseurl: ""
 url: ""
 
@@ -13,3 +12,4 @@ kramdown:
 exclude:
   - README.md
   - .gitignore
+  - assets
