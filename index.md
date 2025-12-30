@@ -10,7 +10,7 @@ Welcome to our privacy policy hub. Select an app below to view its privacy polic
 | App | Privacy Policy |
 |-----|----------------|
 | Cosmic: Music Player | [View Privacy Policy](policies/cosmic-player) |
-| WhatsApp Status Saver | [View Privacy Policy](policies/whatsapp-status-saver) |
+| Status Saver - Download Status | [View Privacy Policy](policies/status-saver-download-status) |
 
 ---
 

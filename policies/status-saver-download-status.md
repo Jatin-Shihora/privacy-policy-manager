@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "WhatsApp Status Saver - Privacy Policy"
-permalink: /policies/whatsapp-status-saver/
+title: "Status Saver - Download Status - Privacy Policy"
+permalink: /policies/status-saver-download-status/
 ---
 
 
@@ -13,9 +13,9 @@ permalink: /policies/whatsapp-status-saver/
 
 ## Introduction
 
-Welcome to WhatsApp Status Saver ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how our mobile application WhatsApp Status Saver (the "App") handles information when you use our services.
+Welcome to Status Saver - Download Status ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how our mobile application Status Saver - Download Status (the "App") handles information when you use our services.
 
-WhatsApp Status Saver is designed to help you save WhatsApp status updates (photos and videos) that you have already viewed. We believe in transparency and want you to understand exactly what data our App accesses and why.
+Status Saver - Download Status is designed to help you save WhatsApp status updates (photos and videos) that you have already viewed. We believe in transparency and want you to understand exactly what data our App accesses and why.
 
 **Disclaimer:** This App is not affiliated with, endorsed by, or sponsored by WhatsApp Inc. or Meta Platforms, Inc. "WhatsApp" is a registered trademark of WhatsApp Inc.
 
@@ -36,7 +36,7 @@ We want to be clear about what we **do not** do:
 
 ## Information the App Accesses
 
-To provide its functionality, WhatsApp Status Saver requires access to certain device features and data. All data accessed remains on your device.
+To provide its functionality, Status Saver - Download Status requires access to certain device features and data. All data accessed remains on your device.
 
 ### 1. Images and Videos (Required)
 - **What:** Access to images and videos stored on your device
@@ -69,7 +69,7 @@ To provide its functionality, WhatsApp Status Saver requires access to certain d
 
 ## Advertising
 
-WhatsApp Status Saver is a free, ad-supported application. We use Google AdMob to display advertisements.
+Status Saver - Download Status is a free, ad-supported application. We use Google AdMob to display advertisements.
 
 ### What AdMob May Collect
 - Device advertising identifier (Advertising ID)
@@ -109,7 +109,7 @@ Since all data is stored locally on your device:
 
 ## Children's Privacy
 
-WhatsApp Status Saver is not directed at children under the age of 13. We do not knowingly collect any personal information from children. Since our App does not collect personal information from any users, this applies to all age groups equally.
+Status Saver - Download Status is not directed at children under the age of 13. We do not knowingly collect any personal information from children. Since our App does not collect personal information from any users, this applies to all age groups equally.
 
 ---
 
@@ -131,7 +131,7 @@ WhatsApp Status Saver is not directed at children under the age of 13. We do not
 You have full control over your data:
 
 1. **Deny Permissions:** You can deny any permission, though core features require storage access.
-2. **Clear Data:** Clear all App data anytime via Android Settings > Apps > WhatsApp Status Saver > Clear Data.
+2. **Clear Data:** Clear all App data anytime via Android Settings > Apps > Status Saver - Download Status > Clear Data.
 3. **Uninstall:** Remove the App and all associated data at any time.
 4. **Revoke Folder Access:** Remove folder access permissions from Android Settings.
 
