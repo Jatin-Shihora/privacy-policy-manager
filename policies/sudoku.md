@@ -5,7 +5,7 @@ permalink: /policies/sudoku-classic-puzzle/
 ---
 
 
-**Last Updated:** January 1, 2026
+**Last Updated:** January 2, 2026
 
 **Effective Date:** September 3, 2022
 
@@ -31,6 +31,42 @@ The app does use third-party services that may collect information used to ident
 
 **Third-party service providers used by the app:**
 - [Google Play Services](https://policies.google.com/privacy)
+- [Google AdMob](https://policies.google.com/privacy)
+
+---
+
+## Advertising
+
+Sudoku - Classic Sudoku Puzzle is a free, ad-supported application. We use Google AdMob to display advertisements, which helps us keep the app free for all users.
+
+### Types of Ads Displayed
+- **Banner Ads:** Small advertisements displayed at the bottom of the screen
+- **Interstitial Ads:** Full-screen advertisements shown between game sessions
+- **Rewarded Ads:** Optional video advertisements that reward users with in-game hints
+
+### What AdMob May Collect
+When you use our app, Google AdMob may collect the following information:
+- **Device Advertising Identifier (Advertising ID):** A unique, user-resettable ID for advertising
+- **IP Address:** Used for approximate location-based ad targeting
+- **Device Information:** Model, operating system version, screen size, and language settings
+- **Ad Interaction Data:** Impressions, clicks, and viewing duration
+- **App Usage Data:** How you interact with advertisements
+
+### Personalized vs. Non-Personalized Ads
+Google AdMob may use the collected information to show you personalized advertisements based on your interests. You can opt out of personalized advertising by:
+1. Going to your device's **Settings**
+2. Navigating to **Google** → **Ads**
+3. Enabling **Opt out of Ads Personalization**
+
+### Children and Advertising
+Our app is not directed at children under 13. We have configured AdMob to comply with COPPA (Children's Online Privacy Protection Act) requirements.
+
+### More Information About Google Advertising
+For detailed information about how Google AdMob handles data and your choices regarding ad personalization, please review:
+- [Google Privacy Policy](https://policies.google.com/privacy)
+- [How Google Uses Data from Partner Apps](https://policies.google.com/technologies/partner-sites)
+- [Google Advertising Policies](https://policies.google.com/technologies/ads)
+- [Ads Settings & Opt-Out](https://adssettings.google.com/)
 
 ---
 
@@ -54,10 +90,24 @@ I may employ third-party companies and individuals due to the following reasons:
 
 - To facilitate our Service;
 - To provide the Service on our behalf;
-- To perform Service-related services; or
-- To assist us in analyzing how our Service is used.
+- To perform Service-related services;
+- To assist us in analyzing how our Service is used; or
+- To display advertisements within the app.
 
 I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+### Third-Party Services We Use
+| Service | Purpose | Privacy Policy |
+|---------|---------|----------------|
+| Google Play Services | App functionality & updates | [Link](https://policies.google.com/privacy) |
+| Google AdMob | Advertising | [Link](https://policies.google.com/privacy) |
+
+---
+
+## Data Retention
+
+- **Game Data:** Your game progress, statistics, and preferences are stored locally on your device and are not transmitted to our servers.
+- **Advertising Data:** Data collected by Google AdMob is retained according to Google's data retention policies. You can learn more at [Google's Privacy Policy](https://policies.google.com/privacy).
 
 ---
 
@@ -93,4 +143,4 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
 
 ---
 
-*This privacy policy is effective as of September 3, 2022.*
+*This privacy policy was originally effective as of September 3, 2022, and was last updated on January 2, 2026.*
