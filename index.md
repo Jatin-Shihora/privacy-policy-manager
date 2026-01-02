@@ -13,6 +13,7 @@ Welcome to our privacy policy hub. Select an app below to view its privacy polic
 | Status Saver - Download Status | [View Privacy Policy](policies/status-saver-download-status) |
 | Pill Reminder - Photo & Track | [View Privacy Policy](policies/take-your-pill-medicine-reminder) |
 | Sudoku - Classic Sudoku Puzzle | [View Privacy Policy](policies/sudoku-classic-puzzle) |
+| 2048 Puzzle - Multiple Grids | [View Privacy Policy](policies/2048-puzzle) |
 
 ---
 
