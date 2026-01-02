@@ -80,12 +80,6 @@ Quick Math Daily is a free, ad-supported application. We use Google AdMob to dis
 - **Interstitial Ads:** Full-screen ads shown between game sessions (with time and problem-count restrictions)
 - **Rewarded Video Ads:** Optional ads you can watch to earn hint refills
 
-### Ad Timing (User-Friendly Approach)
-- Minimum 90 seconds between interstitial ads
-- Minimum 5 problems completed between ads
-- Ads are not shown during negative emotional states
-- Ads are not shown near milestone achievements
-
 ### What AdMob May Collect
 - Device advertising identifier (Advertising ID)
 - IP address
