@@ -14,6 +14,7 @@ Welcome to our privacy policy hub. Select an app below to view its privacy polic
 | Pill Reminder - Photo & Track | [View Privacy Policy](policies/take-your-pill-medicine-reminder) |
 | Sudoku - Classic Sudoku Puzzle | [View Privacy Policy](policies/sudoku-classic-puzzle) |
 | 2048 Puzzle - Multiple Grids | [View Privacy Policy](policies/2048-puzzle) |
+| Micro Meditation | [View Privacy Policy](policies/micro-meditation) |
 
 ---
 
