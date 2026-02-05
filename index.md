@@ -17,6 +17,8 @@ Welcome to our privacy policy hub. Select an app below to view its privacy polic
 | Micro Meditation | [View Privacy Policy](policies/micro-meditation) |
 | Quick Math Daily | [View Privacy Policy](policies/quick-math) |
 | Constellation | [View Privacy Policy](policies/constellation) |
+| Signal Flow | [View Privacy Policy](policies/signal-flow) |
+| Orbit Connect | [View Privacy Policy](policies/orbit-connect) |
 
 ---
 
