@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Signal Flow - Privacy Policy"
-permalink: /policies/signal-flow/
+title: "Signal Pipe - Privacy Policy"
+permalink: /policies/signal-pipe/
 ---
 
 
@@ -13,9 +13,9 @@ permalink: /policies/signal-flow/
 
 ## Introduction
 
-Welcome to Signal Flow ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how our mobile application Signal Flow (the "App") handles information when you use our services.
+Welcome to Signal Pipe ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how our mobile application Signal Pipe (the "App") handles information when you use our services.
 
-Signal Flow is a puzzle game where you rotate pipe segments to connect power sources to endpoints and complete circuits. We believe in transparency and want you to understand exactly what data our App accesses and why.
+Signal Pipe is a puzzle game where you rotate pipe segments to connect power sources to endpoints and complete circuits. We believe in transparency and want you to understand exactly what data our App accesses and why.
 
 ---
 
@@ -34,7 +34,7 @@ We want to be clear about what we **do not** do:
 
 ## Information the App Stores Locally
 
-To provide its functionality, Signal Flow stores the following data locally on your device:
+To provide its functionality, Signal Pipe stores the following data locally on your device:
 
 ### 1. Game Progress Data
 - **What:** Highest level reached, completed levels, star ratings, best move counts per level
@@ -122,7 +122,7 @@ We do not offer cloud synchronization. Your data never leaves your device.
 ### Data Deletion
 Since all data is stored locally on your device:
 - Uninstalling the App removes all App-related data
-- You can clear App data anytime via Android Settings > Apps > Signal Flow > Clear Data
+- You can clear App data anytime via Android Settings > Apps > Signal Pipe > Clear Data
 - You can reset progress from within the App via Settings > Reset Progress
 - Your progress cannot be recovered once deleted
 
@@ -130,7 +130,7 @@ Since all data is stored locally on your device:
 
 ## Children's Privacy
 
-Signal Flow is suitable for all ages.
+Signal Pipe is suitable for all ages.
 
 - We do not knowingly collect any personal information from anyone, including children under 13
 - The App contains no advertisements
