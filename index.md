@@ -18,7 +18,7 @@ Welcome to our privacy policy hub. Select an app below to view its privacy polic
 | Quick Math Daily | [View Privacy Policy](policies/quick-math) |
 | Constellation | [View Privacy Policy](policies/constellation) |
 | Signal Pipe | [View Privacy Policy](policies/signal-pipe) |
-| Orbit Connect | [View Privacy Policy](policies/orbit-connect) |
+| Connect Dots | [View Privacy Policy](policies/connect-dots) |
 | VoidFill | [View Privacy Policy](policies/void-fill) |
 
 ---

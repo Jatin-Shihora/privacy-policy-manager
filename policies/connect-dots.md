@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Orbit Connect - Privacy Policy"
-permalink: /policies/orbit-connect/
+title: "Connect Dots - Privacy Policy"
+permalink: /policies/connect-dots/
 ---
 
 
@@ -13,9 +13,9 @@ permalink: /policies/orbit-connect/
 
 ## Introduction
 
-Welcome to Orbit Connect ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how our mobile application Orbit Connect (the "App") handles information when you use our services.
+Welcome to Connect Dots ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how our mobile application Connect Dots (the "App") handles information when you use our services.
 
-Orbit Connect is a puzzle game where you rotate concentric orbital rings to align glowing nodes and form connections. We believe in transparency and want you to understand exactly what data our App accesses and why.
+Connect Dots is a puzzle game where you rotate concentric orbital rings to align glowing nodes and form connections. We believe in transparency and want you to understand exactly what data our App accesses and why.
 
 ---
 
@@ -35,7 +35,7 @@ We want to be clear about what we **do not** do:
 
 ## Information the App Stores Locally
 
-To provide its functionality, Orbit Connect stores the following data locally on your device:
+To provide its functionality, Connect Dots stores the following data locally on your device:
 
 ### 1. Game Progress Data
 - **What:** Highest unlocked level, completed levels, stars earned per level, best moves per level, attempt counts
@@ -128,7 +128,7 @@ We do not offer cloud synchronization. Your gameplay data never leaves your devi
 ### Data Deletion
 Since all data is stored locally on your device:
 - **Uninstall:** Uninstalling the App removes all App-related data
-- **Clear Data:** You can clear App data anytime via Android Settings > Apps > Orbit Connect > Clear Data
+- **Clear Data:** You can clear App data anytime via Android Settings > Apps > Connect Dots > Clear Data
 - **Reset Progress:** You can reset all progress from within the App via Settings > Reset Progress
 - Your progress cannot be recovered once deleted
 
@@ -136,7 +136,7 @@ Since all data is stored locally on your device:
 
 ## Children's Privacy
 
-Orbit Connect is suitable for all ages.
+Connect Dots is suitable for all ages.
 
 - We do not knowingly collect any personal information from anyone, including children under 13
 - The App contains no advertisements
