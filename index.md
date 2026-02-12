@@ -20,6 +20,9 @@ Welcome to our privacy policy hub. Select an app below to view its privacy polic
 | Signal Pipe | [View Privacy Policy](policies/signal-pipe) |
 | Connect Dots | [View Privacy Policy](policies/connect-dots) |
 | VoidFill | [View Privacy Policy](policies/void-fill) |
+| Binary Pulse | [View Privacy Policy](policies/binary-pulse) |
+| Light Path | [View Privacy Policy](policies/light-path) |
+| Symmetry | [View Privacy Policy](policies/symmetry) |
 
 ---
 
